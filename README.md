@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @atxianDischord
-- 👀 I’m interested in ...web3
-- 🌱 I’m currently learning ...JS
-- 💞️ I’m looking to collaborate on ...
+  
 - 📫 How to reach me ...
 
 <!---
